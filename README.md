@@ -63,3 +63,5 @@ Jangan aktifkan public sign-up untuk admin. Hanya UUID yang dimasukkan ke tabel 
 - Buat admin hanya melalui Supabase Dashboard.
 - Katalog dan panel admin adalah fondasi awal; pembayaran otomatis, status pesanan, edit detail produk, dan pengaturan nomor toko dari dashboard belum termasuk.
 - Periksa ketentuan resmi Roblox dan Mobile Legends serta risiko transaksi akun sebelum menjual produk.
+
+JEJE STORE - Deployment setup.
